@@ -6,5 +6,5 @@ A [Sails](http://sailsjs.org) application using [Angular](https://angular.io), S
 `npm start`
 
 # Versions
-- Angular: 5.2.9
+- Angular: 5.2.8
 - Sails: 0.12.14
